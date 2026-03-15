@@ -47,4 +47,5 @@ OUTPUT:
 i uploded the output in above (Ex 03.pdf)
 
 RESULT: 
+
 Thus, different types of prompts such as Straightforward, Tabular, Preceding Question, and Missing Word prompting were successfully implemented with outputs.
